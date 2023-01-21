@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684186818335",
+    "project_id": "dream-chat-3e0e2",
+    "storage_bucket": "dream-chat-3e0e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684186818335:android:39424900c7a2178957c22a",
+        "android_client_info": {
+          "package_name": "com.adhillatheef.dream_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684186818335-jkqk1maj2c2hfip5c03pvs1aacn3qg20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCEZvfDmR3WJLoFmihab06Yga0SRNaaEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684186818335-jkqk1maj2c2hfip5c03pvs1aacn3qg20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
